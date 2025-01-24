@@ -5,7 +5,8 @@ import { printList } from '../src/main.js'
 /**
  * Uncomment the following code to test your implementation
  * Select all and (CTRL + /) or (COMMAND + /)
- * Feel free to write more tests for your implementation. */
+ * Feel free to write more tests for your implementation.
+ * Remember to run `npm install` before running tests to ensure jest is installed. */
 
 // /**
 // * Tests for the add() method.
